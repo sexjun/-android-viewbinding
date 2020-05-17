@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LearnAndroidFromGoogle</string>
+    <string name="view_binding">点击我测试view binding</string>
+    <string name="there_">第三个传统方法</string>
+</resources>
